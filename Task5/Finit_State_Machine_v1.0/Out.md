@@ -1,0 +1,12 @@
+First:  
+![](First.dot.svg)  
+Second:  
+![](Second.dot.svg)  
+Intersection:  
+![](Intersection.dot.svg)  
+Union:  
+![](Union.dot.svg)  
+SecondNegative:  
+![](NegativeSecond.dot.svg)  
+Difference:  
+![](Difference.dot.svg)  
